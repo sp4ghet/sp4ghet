@@ -5,9 +5,6 @@
 [https://sp4ghet.com](https://sp4ghet.com/)
 
 
-Philomath Craftsman; Ideally a polymath but not quite there yet.
-Pursuing aesthetic tooling and aesthetic work.
-
 ----
 
 ### Contact
