@@ -1,6 +1,5 @@
 ## sp4ghet (Rikuo Hasegawa)
 
-<img src="https://github.com/sp4ghet/algomesh/raw/master/Videos/logo_smol.gif" width="800px" />
 
 
 [https://sp4ghet.com](https://sp4ghet.com/)
